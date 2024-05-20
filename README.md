@@ -49,7 +49,8 @@ print(f"Occurrences of '{given_word}': {name_occurrences}")
 ```
 
 ### Output:
-![](op1.png)
+<img width="265" alt="image" src="https://github.com/Jeswanth21001768/Project-Based-Experiment-AAI/assets/94155480/131c7e8a-136b-40e6-aa36-c0954a6e8b8a">
+
 
 ### Inference:
 
